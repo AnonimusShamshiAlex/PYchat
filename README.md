@@ -32,7 +32,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/твой-username/habl-space-chat.git
+git clone https://github.com/AnonimusShamshiAlex/PYchat.git
 cd habl-space-chat
 ```
 
