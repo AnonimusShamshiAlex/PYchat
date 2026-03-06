@@ -60,7 +60,7 @@ NGROK_AUTH_TOKEN = "твой-токен-здесь"
 ### 4. Запуск чата
 
 ```bash
-python habl_chat.py
+python main.py
 ```
 
 **Ожидаемый вывод:**
