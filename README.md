@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/AnonimusShamshiAlex/PYchat.git
-cd habl-space-chat
+cd PYchat
 ```
 
 ### 2. Установка зависимостей
