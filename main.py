@@ -188,7 +188,14 @@ if __name__ == "__main__":
         print(f"📊 Всего сообщений: {len(chat_msgs)}")
         print(f"👥 Всего пользователей: {total_users}")
         print(f"🌐 Пользователей онлайн: {len(online_users)}")
+        
         public_url = setup_ngrok()
+
+        # ⬇️ Вот то, чего не хватало! ⬇️
+        # Эта строка создает 'event loop' для pywebio
+        asyncio.set_event_loop(asyncio.new_event_loop())
+
+        # Теперь сервер запустится без ошибки
         start_server(
             main,
             port=8080,
