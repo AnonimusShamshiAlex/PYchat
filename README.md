@@ -241,3 +241,4 @@ MIT License. Подробнее в файле [LICENSE](LICENSE).
 
 *Присоединяйся к космическому общению!* 🌌👨‍🚀
 
+🌐 https://chatvonka.base44.app/
