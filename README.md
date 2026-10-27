@@ -216,8 +216,6 @@ MIT License. Подробнее в файле [LICENSE](LICENSE).
 ## 👨‍🚀 Автор
 
 **Dr paradox**  
-- GitHub: [@твой-github](https://github.com/твой-github)  
-- Telegram: [@твой-username](https://t.me/твой-username)
 
 ---
 
